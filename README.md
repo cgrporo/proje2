@@ -21,3 +21,5 @@ Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
 Big-O gösterimini yazınız.
 
 O(n*logn)
+
+https://app.patika.dev/cgrporo
